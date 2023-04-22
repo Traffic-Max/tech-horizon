@@ -1,4 +1,4 @@
-# example netlify.toml
+# Пример netlify.toml
 [build]
   command = "hugo"
   functions = "netlify/functions"
@@ -7,11 +7,32 @@
 [build.environment]
   HUGO_VERSION = "0.101.0"
 
+[dev]
+  framework = "hugo"
+
+# Первый плагин
+[[plugins]]
+  package = "@netlify/plugin-lighthouse"
+
+  # Необязательно, неудачная сборка, когда категория ниже порогового значения
+  [plugins.inputs.thresholds]
+    performance = 0.9
+    accessibility = 0.9
+    best-practices = 0.9
+    seo = 0.9
+    pwa = 0.9
+
+  # Необязательно, развертывание отчета Lighthouse по пути на вашем сайте
+  [plugins.inputs.audits]
+    path = "route1"
+    output_path = "reports/route1.html"
+
+# Второй плагин
 [[plugins]]
   package = "netlify-plugin-cypress"
 
-  [plugins.inputs.postBuild]
-    enable = true
-
   [plugins.inputs]
     enable = false
+
+  [plugins.inputs.postBuild]
+    enable = true
