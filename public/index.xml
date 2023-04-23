@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TechHorizon - Нові горизонти технічного світу</title>
+    <link>https://github.com/Traffic-Max/tech-horizon/</link>
+    <description>Recent content on TechHorizon - Нові горизонти технічного світу</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://github.com/Traffic-Max/tech-horizon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://github.com/Traffic-Max/tech-horizon/authors/t-max/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/Traffic-Max/tech-horizon/authors/t-max/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding the Role of Blockchain in Renewable Energy</title>
+      <link>https://github.com/Traffic-Max/tech-horizon/posts/blockchain_in_renewable_energy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/Traffic-Max/tech-horizon/posts/blockchain_in_renewable_energy/</guid>
+      <description>This article explores the potential benefits of integrating blockchain technology in renewable energy systems. It examines the role of blockchain in optimizing energy distribution, reducing transaction costs, and increasing energy efficiency. The article also discusses some potential challenges associated with implementing blockchain in renewable energy.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/Traffic-Max/tech-horizon'
+baseURL = 'https://tech-horizon.netlify.app'
 languageCode = 'en-us'
 title = 'TechHorizon - Нові горизонти технічного світу'
 theme = 'hugo-theme-itheme'
