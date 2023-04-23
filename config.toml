@@ -1,18 +1,19 @@
 baseURL = 'http://hugo-quickstart-template.netlify.com'
 languageCode = 'en-us'
-title = 'TechHorizon: Нові горизонти технічного світу'
+title = 'TechHorizon - Нові горизонти технічного світу'
 theme = 'hugo-theme-itheme'
 defaultContentLanguage = "en"
+disableKinds = ["taxonomyTerm"]
 
 [params]
-  defaultCover = 'https://example.com/cover.jpg' # default cover image for post not setting cover
-  email = 'floyd.li@outlook.com' # the email address display in the footer
+  defaultCover = 'https://cdn.pixabay.com/photo/2023/04/20/20/01/sea-7940530_1280.jpg' # default cover image for post not setting cover
+  email = 'long_py@proton.me' # the email address display in the footer
   [[params.socialMedia]] # custom social links display in the footer, you can add one or more
     name = 'Github'
-    url = 'https://github.com/floyd-li'
+    url = 'https://github.com/traffic-max'
   [[params.socialMedia]]
     name = 'Twitter'
-    url = 'https://twitter.com/some-one'
+    url = 'https://twitter.com/'
   [[params.blogroll]] # blogroll links display in the footer, you can add one or more
     name = 'Apple'
     url = 'https://Apple.com/'
