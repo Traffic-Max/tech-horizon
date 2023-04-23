@@ -1,4 +1,4 @@
-baseURL = 'http://hugo-quickstart-template.netlify.com'
+baseURL = 'https://github.com/Traffic-Max/tech-horizon'
 languageCode = 'en-us'
 title = 'TechHorizon - Нові горизонти технічного світу'
 theme = 'hugo-theme-itheme'
