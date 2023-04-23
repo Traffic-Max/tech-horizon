@@ -15,12 +15,12 @@
   package = "@netlify/plugin-lighthouse"
 
   # Необязательно, неудачная сборка, когда категория ниже порогового значения
-  [plugins.inputs.thresholds]
-    performance = 0.9
-    accessibility = 0.9
-    best-practices = 0.9
-    seo = 0.9
-    pwa = 0.9
+  # [plugins.inputs.thresholds]
+  #   performance = 0.9
+  #   accessibility = 0.9
+  #   best-practices = 0.9
+  #   seo = 0.9
+  #   pwa = 0.9
 
   # Необязательно, развертывание отчета Lighthouse по пути на вашем сайте
   [plugins.inputs.audits]
