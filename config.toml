@@ -1,6 +1,7 @@
 baseURL = 'https://tech-horizon.netlify.app'
 languageCode = 'en-us'
-title = 'TechHorizon - Нові горизонти технічного світу'
+title = 'Tech Horizon'
+subtitle = 'Tech horizon - The latest versions of future technologys endpoit'
 theme = 'hugo-theme-itheme'
 defaultContentLanguage = "en"
 disableKinds = ["taxonomyTerm"]
@@ -31,3 +32,41 @@ disableKinds = ["taxonomyTerm"]
   [build.resources]
     [build.resources.postCSS]
       outputStyle = "compressed"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 0
+
+[[menu.main]]
+  name = "About"
+  url = "about"
+  weight = 5
+
+[[menu.main]]
+  name = "Blog"
+  url = "post/"
+  weight = 10
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      linkifyProtocol = 'https'
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      autoHeadingID = true
+      autoHeadingIDType = 'github'
+      wrapStandAloneImageWithinParagraph = true
+      [markup.goldmark.parser.attribute]
+        block = false
+        title = true
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = false
+      xhtml = false

@@ -1,10 +1,18 @@
-Title: Understanding Blockchain Transactions: How They Work
-Summary: This article provides an in-depth look at blockchain transactions, including what they are, how they work, and their potential benefits and limitations. The article also discusses the future of blockchain transactions and answers some common questions about this technology.
-Author: Badass.alchemist
-Date: 2023-03-16 06:45
-Modified: 2023-03-16 06:45
-Category: Blockchain Technology
-Tags: Blockchain Transactions, Digital Assets, Decentralization, Security, Transparency
+---
+title: "Understanding Blockchain Transactions: How They Work"
+summary: This article provides an in-depth look at blockchain transactions, including what they are, how they work, and their potential benefits and limitations. The article also discusses the future of blockchain transactions and answers some common questions about this technology.
+author: 't-max'
+date: 2023-03-16
+cover: "https://images.unsplash.com/photo-1509804428544-207b8054b369?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+category: Blockchain Technology
+tags: [Blockchain Transactions, Digital Assets, Decentralization, Security, Transparency]
+theme: dark
+---
+
+![Blockchain](https://images.unsplash.com/photo-1509804428544-207b8054b369?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80)
+
+---
+---
 
 # Understanding Blockchain Transactions: How They Work
 
