@@ -25,3 +25,9 @@ disableKinds = ["taxonomyTerm"]
   author = "authors"
   tag = "tags"
   category = "categories"
+
+[build]
+  useResourceCache = true
+  [build.resources]
+    [build.resources.postCSS]
+      outputStyle = "compressed"

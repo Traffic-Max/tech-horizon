@@ -2,16 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blockchain on TechHorizon - Нові горизонти технічного світу</title>
-    <link>https://github.com/Traffic-Max/tech-horizon/tags/blockchain/</link>
+    <link>https://tech-horizon.netlify.app/tags/blockchain/</link>
     <description>Recent content in Blockchain on TechHorizon - Нові горизонти технічного світу</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://github.com/Traffic-Max/tech-horizon/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://tech-horizon.netlify.app/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Understanding the Role of Blockchain in Renewable Energy</title>
-      <link>https://github.com/Traffic-Max/tech-horizon/posts/blockchain_in_renewable_energy/</link>
+      <title>Hello Understanding the Role of Blockchain in Renewable Energy</title>
+      <link>https://tech-horizon.netlify.app/posts/new_post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/Traffic-Max/tech-horizon/posts/blockchain_in_renewable_energy/</guid>
+      <guid>https://tech-horizon.netlify.app/posts/new_post/</guid>
+      <description>Understanding the Role of Blockchain in Renewable Energy As the world moves towards a more sustainable future, renewable energy sources are becoming increasingly important. However, the integration of renewable energy into existing infrastructure can be a challenge due to the intermittent nature of some sources such as solar and wind power. One technology that is emerging as a potential solution is blockchain. In this article, we will explore the role of blockchain in renewable energy, including its benefits, challenges, and potential applications.</description>
+    </item>
+    
+    <item>
+      <title>Understanding the Role of Blockchain in Renewable Energy</title>
+      <link>https://tech-horizon.netlify.app/posts/blockchain_in_renewable_energy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tech-horizon.netlify.app/posts/blockchain_in_renewable_energy/</guid>
       <description>This article explores the potential benefits of integrating blockchain technology in renewable energy systems. It examines the role of blockchain in optimizing energy distribution, reducing transaction costs, and increasing energy efficiency. The article also discusses some potential challenges associated with implementing blockchain in renewable energy.</description>
     </item>
     

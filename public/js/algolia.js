@@ -1,6 +1,6 @@
 (() => {
   // ns-params:@params
-  var baseURL = "https://github.com/Traffic-Max/tech-horizon";
+  var baseURL = "https://tech-horizon.netlify.app";
   var params = { blogroll: [{ name: "Apple", url: "https://Apple.com/" }, { name: "Google", url: "https://Google.com/" }], defaultcover: "https://cdn.pixabay.com/photo/2023/04/20/20/01/sea-7940530_1280.jpg", email: "long_py@proton.me", mainSections: ["posts"], mainsections: ["posts"], socialmedia: [{ name: "Github", url: "https://github.com/traffic-max" }, { name: "Twitter", url: "https://twitter.com/" }] };
 
   // <stdin>
