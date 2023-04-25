@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blockchain on TechHorizon - Нові горизонти технічного світу</title>
+    <title>Blockchain on Tech Horizon</title>
     <link>https://tech-horizon.netlify.app/tags/blockchain/</link>
-    <description>Recent content in Blockchain on TechHorizon - Нові горизонти технічного світу</description>
+    <description>Recent content in Blockchain on Tech Horizon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://tech-horizon.netlify.app/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello Understanding the Role of Blockchain in Renewable Energy</title>
-      <link>https://tech-horizon.netlify.app/posts/new_post/</link>
+      <title>Blockchain vs. Traditional Databases: Which One Is Better?</title>
+      <link>https://tech-horizon.netlify.app/posts/blockchain_vs_trad_dbs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tech-horizon.netlify.app/posts/new_post/</guid>
-      <description>Understanding the Role of Blockchain in Renewable Energy As the world moves towards a more sustainable future, renewable energy sources are becoming increasingly important. However, the integration of renewable energy into existing infrastructure can be a challenge due to the intermittent nature of some sources such as solar and wind power. One technology that is emerging as a potential solution is blockchain. In this article, we will explore the role of blockchain in renewable energy, including its benefits, challenges, and potential applications.</description>
+      <guid>https://tech-horizon.netlify.app/posts/blockchain_vs_trad_dbs/</guid>
+      <description>This article explores the differences between blockchain and traditional databases, and their respective advantages and disadvantages. It also discusses their use cases and the factors that should be considered when choosing between them.</description>
     </item>
     
     <item>

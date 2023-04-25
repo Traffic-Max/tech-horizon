@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data analysis on Tech Horizon</title>
+    <link>https://tech-horizon.netlify.app/en/tags/data-analysis/</link>
+    <description>Recent content in data analysis on Tech Horizon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 23 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://tech-horizon.netlify.app/en/tags/data-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to Financial Econometrics: Unraveling the Complex World of Financial Data</title>
+      <link>https://tech-horizon.netlify.app/en/financial_econometrics_intro/</link>
+      <pubDate>Sun, 23 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://tech-horizon.netlify.app/en/financial_econometrics_intro/</guid>
+      <description>Gold Financial econometrics is an interdisciplinary field that combines statistical methods with economic theory to analyze and understand financial data. This branch of econometrics is essential for making informed investment decisions, creating financial models, and understanding market trends. In this article, we&amp;rsquo;ll delve into the complex world of financial econometrics and explore its applications.
+What is Financial Econometrics? Financial econometrics is a subfield of econometrics that focuses on analyzing financial data to make predictions, test hypotheses, and evaluate financial models.</description>
+    </item>
+    
+  </channel>
+</rss>

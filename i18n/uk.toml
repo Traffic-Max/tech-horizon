@@ -1,0 +1,34 @@
+[home]
+    other = "Головна"
+[posts]
+    other = "Статті"
+[about]
+    other = "Про нас"
+[latestArticles]
+    other = "Останні статті"
+[moreArticles]
+    other = "Більше статей"
+[viewArchive]
+    other = "Переглянути архів"
+[socialMedia]
+    other = "Соціальні мережі"
+[related]
+    other = "Схожі статті"
+[pagination]
+    other = "Пагінація"
+[of]
+    other = "з"
+[allTags]
+    other = "Всі теги"
+[author]
+    other = "Автор"
+[postDate]
+    other = "Опубліковано"
+[copyright]
+    other = "Авторське право"
+[licenses]
+    other = "Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)"
+[search]
+    other = "Пошук"
+[searchPlaceholder]
+    other = "Шукати за назвою або описом..."

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cryptocurrency on Tech Horizon</title>
+    <link>https://tech-horizon.netlify.app/en/tags/cryptocurrency/</link>
+    <description>Recent content in Cryptocurrency on Tech Horizon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 16 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://tech-horizon.netlify.app/en/tags/cryptocurrency/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is Blockchain? A Comprehensive Guide</title>
+      <link>https://tech-horizon.netlify.app/en/what_is_blockchain/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://tech-horizon.netlify.app/en/what_is_blockchain/</guid>
+      <description>Blockchain Technology: A Comprehensive Guide Blockchain technology has emerged as one of the most innovative and transformative technologies of our time. In this comprehensive guide, we will take a deep dive into what blockchain is, how it works, and its potential applications in various industries.
+Introduction Blockchain is a digital ledger that records transactions in a secure and decentralized manner. Unlike traditional databases that are centralized and managed by a single entity, blockchain is distributed across a network of computers, making it virtually impossible for any single entity to manipulate or corrupt the data.</description>
+    </item>
+    
+  </channel>
+</rss>

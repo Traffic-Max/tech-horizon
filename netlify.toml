@@ -11,8 +11,8 @@
   framework = "hugo"
 
 # Первый плагин
-[[plugins]]
-  package = "@netlify/plugin-lighthouse"
+# [[plugins]]
+#   package = "@netlify/plugin-lighthouse"
 
   # Необязательно, неудачная сборка, когда категория ниже порогового значения
   # [plugins.inputs.thresholds]
@@ -23,9 +23,9 @@
   #   pwa = 0.9
 
   # Необязательно, развертывание отчета Lighthouse по пути на вашем сайте
-  [plugins.inputs.audits]
-    path = "route1"
-    output_path = "reports/route1.html"
+  # [plugins.inputs.audits]
+  #   path = "route1"
+  #   output_path = "reports/route1.html"
 
 # Второй плагин
 [[plugins]]
@@ -35,4 +35,14 @@
     enable = false
 
   [plugins.inputs.postBuild]
-    enable = true
+    enable = false
+
+[[plugins]]
+  package = "netlify-plugin-hugo-cache-resources"
+
+	[plugins.inputs]
+	# If it should show more verbose logs (optional, default = true)
+	debug = true
+	# Relative path to source directory in case you use Hugo's "--s" option
+	srcdir = "themes/hugo-theme-itheme/layouts"
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech Horizon</title>
+    <link>https://tech-horizon.netlify.app/uk/</link>
+    <description>Recent content on Tech Horizon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 01 Mar 2023 13:06:38 +0800</lastBuildDate><atom:link href="https://tech-horizon.netlify.app/uk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Про нас</title>
+      <link>https://tech-horizon.netlify.app/uk/about/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://tech-horizon.netlify.app/uk/about/</guid>
+      <description>Tech Horizon Macbook Привіт-привіт! Як твої справи? Мене звати Макс і я є фахівцем в галузі цифрового маркетингу з більш ніж 8-річним досвідом та початківцем розробником Python. Я завжди був захопленим передовими технологіями, тому навчаюся та розвиваю свої знання, щоб залишатися в курсі останніх тенденцій.
+Я закінчив Харківський національний юридичний університет та почав свою кар&amp;rsquo;єру в маркетингу, вивчаючи в Computer Academy Shag в Одесі. Я наливав трафік у майже всі галузі, окрім фармації, реклами для дорослих і деяких інших, які мені зараз не нагадуються.</description>
+    </item>
+    
+    <item>
+      <title>14 найкращих та найпопулярніших веб-сайтів фондових досліджень</title>
+      <link>https://tech-horizon.netlify.app/uk/14_best_screeners_ua/</link>
+      <pubDate>Wed, 01 Mar 2023 13:06:38 +0800</pubDate>
+      
+      <guid>https://tech-horizon.netlify.app/uk/14_best_screeners_ua/</guid>
+      <description>14 найкращих та найпопулярніших веб-сайтів фондових досліджень Платіжні інструменти Дослідження фондового ринку важливо, щоб дозволити трейдерам охопити всю історію діяльності компанії, в яку вони планують інвестувати або купувати акції для майбутньої прибутковості. Ця інформація має вирішальне значення і містить повну бібліотеку фінансових показників кожної перерахованої компанії (включаючи зростання та падіння кожного року) з моменту її публічного запуску. Він також висвітлює сильні, слабкі сторони, прибутковість, збитки та інші прогнози з вичерпними деталями та детермінантами.</description>
+    </item>
+    
+  </channel>
+</rss>

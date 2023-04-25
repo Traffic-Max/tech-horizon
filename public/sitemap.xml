@@ -1,41 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://tech-horizon.netlify.app/tags/apple/</loc>
-    <lastmod>2023-02-27T05:06:38+00:00</lastmod>
-  </url><url>
-    <loc>https://tech-horizon.netlify.app/posts/apple-post/</loc>
-    <lastmod>2023-02-27T05:06:38+00:00</lastmod>
-  </url><url>
-    <loc>https://tech-horizon.netlify.app/tags/homepod/</loc>
-    <lastmod>2023-02-27T05:06:38+00:00</lastmod>
-  </url><url>
-    <loc>https://tech-horizon.netlify.app/posts/</loc>
-    <lastmod>2023-02-27T05:06:38+00:00</lastmod>
-  </url><url>
-    <loc>https://tech-horizon.netlify.app/</loc>
-    <lastmod>2023-02-27T05:06:38+00:00</lastmod>
-  </url><url>
-    <loc>https://tech-horizon.netlify.app/tags/%E6%96%B0%E9%97%BB%E7%A8%BF/</loc>
-    <lastmod>2023-02-27T05:06:38+00:00</lastmod>
-  </url><url>
-    <loc>https://tech-horizon.netlify.app/authors/t-max/</loc>
-  </url><url>
-    <loc>https://tech-horizon.netlify.app/tags/blockchain/</loc>
-  </url><url>
-    <loc>https://tech-horizon.netlify.app/tags/cake/</loc>
-  </url><url>
-    <loc>https://tech-horizon.netlify.app/tags/chocolate/</loc>
-  </url><url>
-    <loc>https://tech-horizon.netlify.app/authors/cupcake-lover/</loc>
-  </url><url>
-    <loc>https://tech-horizon.netlify.app/posts/new_post/</loc>
-  </url><url>
-    <loc>https://tech-horizon.netlify.app/about/</loc>
-  </url><url>
-    <loc>https://tech-horizon.netlify.app/posts/post-1/</loc>
-  </url><url>
-    <loc>https://tech-horizon.netlify.app/posts/blockchain_in_renewable_energy/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://tech-horizon.netlify.app/en/sitemap.xml</loc>
+    
+      <lastmod>2023-04-23T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://tech-horizon.netlify.app/uk/sitemap.xml</loc>
+    
+      <lastmod>2023-03-01T13:06:38+08:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>

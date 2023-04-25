@@ -1,5 +1,7 @@
 {{ define "main" }}
-{{ $pages := where .Site.RegularPages "Params.plain" "ne" true }}
+{{ $currentLanguage := .Site.Language.Lang }}
+{{ $pages := where (where .Site.RegularPages "Type" "post") "Language.Lang" "=" $currentLanguage }}
+
     <section class="everydayfeed">
     <div class="section-content">
       <h2 class="section-head">{{ i18n "latestArticles" }}</h2>

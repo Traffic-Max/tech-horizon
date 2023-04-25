@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security on Tech Horizon</title>
+    <link>https://tech-horizon.netlify.app/tags/security/</link>
+    <description>Recent content in Security on Tech Horizon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://tech-horizon.netlify.app/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Top 14 Best &amp; Most Popular Stock Research Websites</title>
+      <link>https://tech-horizon.netlify.app/posts/14_best_screeners/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://tech-horizon.netlify.app/posts/14_best_screeners/</guid>
+      <description>Stock market research is important to let traders reach the entire performance history of the company in which they are planning to invest or buying stocks for future profitability. This information is crucial and contains the complete library of each listed company&amp;rsquo;s financial performance (encompassing each year&amp;rsquo;s rise and fall) since it&amp;rsquo;s launched in public. It further highlights strengths, weaknesses, profitability, loss, and other predictions with comprehensive details and determinants.</description>
+    </item>
+    
+    <item>
+      <title>Understanding Blockchain Transactions: How They Work</title>
+      <link>https://tech-horizon.netlify.app/posts/htw_transactions/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://tech-horizon.netlify.app/posts/htw_transactions/</guid>
+      <description>This article provides an in-depth look at blockchain transactions, including what they are, how they work, and their potential benefits and limitations. The article also discusses the future of blockchain transactions and answers some common questions about this technology.</description>
+    </item>
+    
+    <item>
+      <title>Blockchain vs. Traditional Databases: Which One Is Better?</title>
+      <link>https://tech-horizon.netlify.app/posts/blockchain_vs_trad_dbs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tech-horizon.netlify.app/posts/blockchain_vs_trad_dbs/</guid>
+      <description>This article explores the differences between blockchain and traditional databases, and their respective advantages and disadvantages. It also discusses their use cases and the factors that should be considered when choosing between them.</description>
+    </item>
+    
+  </channel>
+</rss>

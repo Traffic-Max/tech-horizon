@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>interoperability on Tech Horizon</title>
+    <link>https://tech-horizon.netlify.app/en/tags/interoperability/</link>
+    <description>Recent content in interoperability on Tech Horizon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 16 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://tech-horizon.netlify.app/en/tags/interoperability/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blockchain vs. Traditional Databases: Which One Is Better?</title>
+      <link>https://tech-horizon.netlify.app/en/blockchain_vs_trad_dbs/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://tech-horizon.netlify.app/en/blockchain_vs_trad_dbs/</guid>
+      <description>Blockchain vs. Traditional Databases: Which One Is Better? In recent years, the term blockchain has become increasingly popular. It&amp;rsquo;s a distributed ledger technology that underpins digital cryptocurrencies such as Bitcoin, Ethereum, and many others. The blockchain is a database that is decentralized, meaning it doesn&amp;rsquo;t have a central authority controlling it. In contrast, traditional databases are controlled by central authorities such as corporations or governments. In this article, we will compare and contrast blockchain and traditional databases, looking at their features, advantages, and disadvantages, to determine which one is better.</description>
+    </item>
+    
+  </channel>
+</rss>

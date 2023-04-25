@@ -1,10 +1,26 @@
 baseURL = 'https://tech-horizon.netlify.app'
-languageCode = 'en-us'
 title = 'Tech Horizon'
-subtitle = 'Tech horizon - The latest versions of future technologys endpoit'
+subtitle = 'Tech horizon - The latest version of future technologys endpoit'
 theme = 'hugo-theme-itheme'
+themesDir = 'themes'
 defaultContentLanguage = "en"
 disableKinds = ["taxonomyTerm"]
+defaultContentLanguageInSubdir = true
+
+# [permalinks]
+#     post = "/:lang/posts/:slug/"
+
+[languages]
+  [languages.en]
+    title = "Tech Horizon"
+    languageName = "English"
+    contentDir = "content/en"
+    weight = 1
+  [languages.uk]
+    title = "Tech Horizon"
+    languageName = "Українська"
+    contentDir = "content/uk"
+    weight = 2
 
 [params]
   defaultCover = 'https://cdn.pixabay.com/photo/2023/04/20/20/01/sea-7940530_1280.jpg' # default cover image for post not setting cover
@@ -40,13 +56,27 @@ disableKinds = ["taxonomyTerm"]
 
 [[menu.main]]
   name = "About"
-  url = "about"
+  url = "/en/about/"
   weight = 5
+  language = "en"
 
 [[menu.main]]
-  name = "Blog"
-  url = "post/"
+  name = "Про нас"
+  url = "/uk/about/"
+  weight = 6
+  language = "uk"
+
+[[menu.main]]
+  name = "Articles"
+  url = "/en/posts/"
   weight = 10
+  language = "en"
+
+[[menu.main]]
+  name = "Статті"
+  url = "/uk/posts/"
+  weight = 11
+  language = "uk"
 
 [markup]
   [markup.goldmark]
