@@ -453,3 +453,216 @@ code {
   display: inline-block;
   margin-right: 1rem;
 }
+
+/* Стилизация фото автора */
+.author-photo {
+  display: block;
+  margin: 0 auto 1.5rem;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center;
+}
+
+/* Стилизация имени автора */
+.author-name {
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+/* Стилизация биографии автора */
+.author-bio {
+  font-size: 1.2rem;
+  line-height: 1.5;
+  margin-bottom: 2rem;
+}
+
+/* Стилизация ссылок на соцсети */
+.author-social {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.author-social a {
+  display: inline-block;
+  margin-right: 1rem;
+  color: #333;
+  text-decoration: none;
+  font-size: 1.5rem;
+  transition: color 0.2s ease;
+}
+
+.author-social a:hover {
+  color: #007bff;
+}
+
+/* Стилизация списка статей автора */
+.author-articles {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.author-articles li {
+  margin-bottom: 1rem;
+}
+
+.author-articles li a {
+  color: #333;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.author-articles li a:hover {
+  color: #007bff;
+}
+
+/* CSS стили для блока скиллов: */
+.skills-block {
+margin-bottom: 30px;
+}
+
+.skills-block h3 {
+font-size: 20px;
+font-weight: bold;
+margin-bottom: 10px;
+}
+
+.skills-block ul {
+list-style: none;
+margin: 0;
+padding: 0;
+}
+
+.skills-block li {
+margin-bottom: 10px;
+}
+
+.skills-block span {
+display: inline-block;
+width: 120px;
+}
+
+.progress-bar {
+width: 100%;
+height: 10px;
+background-color: #eee;
+position: relative;
+}
+
+.percentage {
+display: block;
+font-size: 12px;
+font-weight: bold;
+position: absolute;
+top: 50%;
+left: 5px;
+transform: translateY(-50%);
+}
+
+/* Расширение авторского стиля */
+.footer-main {
+  background-color: #f8f8f8;
+  color: #444;
+  font-size: 14px;
+  padding: 50px 0;
+}
+
+.footer-box {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.footer-box .item {
+  flex: 1;
+  margin-right: 30px;
+}
+
+.footer-box .item:last-child {
+  margin-right: 0;
+}
+
+.footer-box .item-title {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.footer-box .email a {
+  color: #444;
+}
+
+.footer-box .community a {
+  display: block;
+  margin-bottom: 5px;
+  color: #444;
+  text-decoration: none;
+}
+
+.footer-box .resources a {
+  display: block;
+  margin-bottom: 5px;
+  color: #444;
+  text-decoration: none;
+}
+
+.footer-box .author-info {
+  margin-top: 20px;
+}
+
+.footer-box .author-avatar {
+  float: left;
+  margin-right: 10px;
+}
+
+.footer-box .author-avatar img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.footer-box .author-name {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.footer-box .author-articles {
+  margin-top: 10px;
+}
+
+.footer-box .author-articles ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.footer-box .author-articles li {
+  margin-bottom: 5px;
+}
+
+.footer-box .bottom {
+  margin-top: 20px;
+  font-size: 12px;
+  color: #777;
+  text-align: center;
+}
+
+.author-avatar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 1.5rem;
+}
+
+.author-avatar img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center;
+}

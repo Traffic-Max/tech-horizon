@@ -1,0 +1,13 @@
+<div class="skills-block">
+  <h3>Навыки</h3>
+  <ul>
+    {{ range .Params.skills }}
+      <li>
+        <span>{{ .name }}</span>
+        <div class="progress-bar" style="width: {{ .percent }}%;">
+          <span class="percentage">{{ .percent }}%</span>
+        </div>
+      </li>
+    {{ end }}
+  </ul>
+</div>

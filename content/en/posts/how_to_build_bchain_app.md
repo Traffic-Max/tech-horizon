@@ -4,11 +4,12 @@ description: "This article provides a step-by-step guide to building a blockchai
 date: 2023-03-16
 draft: false
 author: 't-max'
-cover: ''
+cover: 'https://source.unsplash.com/800x450/?blockchain%20applications'
 tags: [Blockchain, Application Development, Decentralization, Smart Contracts, Cryptography]
 language: "en"
 theme: dark
 type: "post"
+slug: "how-to-build-a-blockchain-application-in-5-easy-steps"
 ---
 
 # How to Build a Blockchain Application in 5 Easy Steps

@@ -4,11 +4,12 @@ description: "This article explores the future of blockchain technology and its 
 date: 2023-03-16
 draft: false
 author: 't-max'
-cover: ''
+cover: 'https://source.unsplash.com/800x450/?future%20of%20blockchain'
 Tags: [Blockchain, Decentralization, Finance, Healthcare, Logistics, Supply Chain Management, Government Services]
 language: "en"
 theme: dark
 type: "post"
+slug: "the-future-of-blockchain-predictions-for-the-next-decade"
 ---
 
 # The Future of Blockchain: Predictions for the Next Decade

@@ -4,11 +4,12 @@ description: "This article explores the advantages of blockchain technology in t
 date: 2023-03-16
 draft: false
 author: 't-max'
-cover: ''
+cover: 'https://source.unsplash.com/800x450/?blockchain%20in%20automotive'
 tags: [Blockchain, Automotive Industry, Supply Chain Management, Data Management, Smart Contracts, Autonomous Vehicles, Counterfeit Prevention, Cost Reductions.]
 language: "en"
 theme: dark
 type: "post"
+slug: "the-advantages-of-blockchain-in-the-automotive-industry"
 ---
 
 # The Advantages of Blockchain in the Automotive Industry

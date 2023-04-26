@@ -4,11 +4,12 @@ description: This article provides an in-depth look at blockchain transactions, 
 date: 2023-03-16
 draft: false
 author: 't-max'
-cover: "https://images.unsplash.com/photo-1509804428544-207b8054b369?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+cover: "https://source.unsplash.com/800x450/?blockchain%20transactions"
 tags: [Blockchain Transactions, Digital Assets, Decentralization, Security, Transparency]
 language: "en"
 theme: dark
 type: "post"
+slug: "understanding-blockchain-transactions-how-they-work"
 ---
 
 ![Blockchain](https://images.unsplash.com/photo-1509804428544-207b8054b369?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80)

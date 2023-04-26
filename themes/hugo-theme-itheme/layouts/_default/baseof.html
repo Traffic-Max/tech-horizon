@@ -4,6 +4,10 @@
     {{ partial "head.html" . }}
   </head>
   <body class="{{ if .IsPage }} page-article {{ else }} page-landing {{ end }}  {{ if eq .Page.Params.theme "dark" }} theme-dark {{ end }}">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5H5QGBQ"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <!-- End Google Tag Manager (noscript) -->
     <header>
       {{ partial "header.html" . }}
     </header>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://tech-horizon.netlify.app/ru/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tech-horizon.netlify.app/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://tech-horizon.netlify.app/uk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://tech-horizon.netlify.app/ru/"
+                />
+  </url>
+</urlset>

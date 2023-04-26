@@ -3,15 +3,18 @@ title: "🚀 Stock Market Analysis: A Beginner's Guide to Understanding Market T
 description: "Get started with stock market analysis and learn how to identify market trends for smarter investment decisions."
 date: '2023-04-15T13:06:38+08:00'
 draft: false
+plain: false
+featured: true
 author: t-max
-cover: "https://lh3.googleusercontent.com/hR2fHRe-YgFPaQm2WQ4KCEiWylR2opz0RxdsILOXOiwV1QzoJ6c3-A5_b4excviztuayvPC7Siz66PoH3siEv6diKf3VZmxWBmaGw9Skh5xzANWZc_xyFg6p_vMt8XDm2iyJuPZheA=w2400"
+cover: "https://source.unsplash.com/800x450/?stock%20market%20analysis"
 tags: ["stock-market", "analysis", "investing", "beginner"]
 language: "en"
 theme: dark
 type: "post"
+slug: "stock-market-analysis-beginners-guide"
 ---
 
-![Gold|wide](https://lh3.googleusercontent.com/hR2fHRe-YgFPaQm2WQ4KCEiWylR2opz0RxdsILOXOiwV1QzoJ6c3-A5_b4excviztuayvPC7Siz66PoH3siEv6diKf3VZmxWBmaGw9Skh5xzANWZc_xyFg6p_vMt8XDm2iyJuPZheA=w2400)
+![Stock Market|wide](https://source.unsplash.com/800x450/?Stock%20market)
 
 ---
 ---

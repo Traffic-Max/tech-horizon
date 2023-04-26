@@ -7,23 +7,30 @@ defaultContentLanguage = "en"
 disableKinds = ["taxonomyTerm"]
 defaultContentLanguageInSubdir = true
 
-# [permalinks]
-#     post = "/:lang/posts/:slug/"
+[permalinks]
+  en = "/en/posts/:slug/"
+  uk = "/uk/posts/:slug/"
 
 [languages]
   [languages.en]
     title = "Tech Horizon"
     languageName = "English"
     contentDir = "content/en"
-    weight = 1
+    weight = 3
   [languages.uk]
     title = "Tech Horizon"
     languageName = "Українська"
     contentDir = "content/uk"
+    weight = 1
+  [languages.ru]
+    title = "Tech Horizon"
+    languageName = "Русский"
+    contentDir = "content/ru"
     weight = 2
 
+
 [params]
-  defaultCover = 'https://cdn.pixabay.com/photo/2023/04/20/20/01/sea-7940530_1280.jpg' # default cover image for post not setting cover
+  defaultCover = 'https://source.unsplash.com/800x450/?{Blockchain}' # default cover image for post not setting cover
   email = 'long_py@proton.me' # the email address display in the footer
   [[params.socialMedia]] # custom social links display in the footer, you can add one or more
     name = 'Github'

@@ -7,26 +7,56 @@
             <div class="logo">{{ .Site.Title}}</div>
             <div class="email">Email: <a href="mailto:{{ site.Params.email }}">{{ site.Params.email }}</a></div>
           </div>
-
           <div class="item community">
             <div class="item-title">{{ i18n "socialMedia" }}</div>
             {{ range site.Params.socialMedia }}
               <a href="{{ .url }}" target="_blank">{{ .name}}</a>
             {{ end }}
           </div>
-
           <div class="item resources">
             <div class="item-title">{{ i18n "related" }}</div>
             {{ range site.Params.blogroll }}
               <a href="{{ .url }}" target="_blank">{{ .name}}</a>
             {{ end }}
           </div>
+          {{ with .Params.author }}
+          <div class="item author-info">
+            <div class="item-title">Автор статьи:</div>
+            <div class="author-avatar">
+              <a href="{{ .Permalink }}">
+                <img src="{{ .Params.avatar }}" alt="{{ .Params.name }} avatar">
+              </a>
+            </div>
+            <div class="author-name">
+              <a href="{{ .Permalink }}">{{ .Params.name }}</a>
+            </div>
+            <div class="author-articles">
+              <div class="item-title">Статьи автора:</div>
+              <ul>
+                {{ range .Data.Pages }}
+                  {{ if eq .Params.author $.Params.author }}
+                    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+                  {{ end }}
+                {{ end }}
+              </ul>
+            </div>
+          </div>
+          {{ end }}
         </div>
       </div>
       <div class="bottom">
         <div class="item copyright">
           &copy; {{ now.Format "2006" }}
           Powered by <a href="https://gohugo.io/" target="_blank">Hugo</a> & <a href="https://github.com/floyd-li/hugo-theme-itheme" target="_blank">iTheme</a>
+        </div>
+        <div class="item contact">
+          <div class="item-title">Контакты:</div>
+          <div class="item-text">{{ i18n "email" }}: <a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a></div>
+          <div class="item-social">
+            {{ range .Params.socialMedia }}
+              <a href="{{ .url }}" target="_blank">{{ .name }}</a>
+            {{ end }}
+          </div>
         </div>
       </div>
     </div>

@@ -4,11 +4,12 @@ description: "This article explores the opportunities and challenges of using bl
 date: 2023-03-16
 draft: false
 author: 't-max'
-cover: ''
+cover: 'https://source.unsplash.com/800x450/?blockchain%20retail'
 tags: [blockchain, retail, supply chain management, payment processing, loyalty programs, smart contracts, adoption, integration, security, privacy, regulation, legal issues]
 language: "en"
 theme: dark
 type: "post"
+slug: "blockchain-and-retail-opportunities-and-challenges"
 ---
 
 # Blockchain and Retail: Opportunities and Challenges

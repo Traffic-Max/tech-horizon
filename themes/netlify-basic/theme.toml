@@ -3,7 +3,7 @@
 
 name = "Netlify Basic"
 license = "MIT"
-description = "A very basic theme for a quickstart template"
+description = "Already not so basic for a quickstart template"
 homepage = "http://hugo-quickstart.netlify.com"
 tags = []
 features = []

@@ -1,14 +1,17 @@
 ---
 title: "Blockchain for Supply Chain: Advantages and Challenges"
 description: "This article discusses the potential advantages and challenges of using blockchain technology in supply chain management. The advantages include increased transparency, traceability, efficiency, and security, while the challenges include integration with existing systems, regulatory issues, cost, and scalability."
-date: 2023-03-16
+date: 2023-04-16
 draft: false
-author: Badass.alchemist
-cover: ''
+plain: false
+featured: true
+author: 't-max'
+cover: 'https://source.unsplash.com/800x450/?supply%20chains'
 tags: [blockchain, supply chain, management, transparency, efficiency, security, integration, regulation, cost, scalability]
 language: "en"
 theme: dark
 type: "post"
+slug: "blockchain-for-supply-chain-advantages-and-challenges"
 ---
 
 # **Blockchain for Supply Chain: Advantages and Challenges**

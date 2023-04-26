@@ -1,15 +1,21 @@
---- 
+---
 title: 'The Art of Technologies'
 plain: true
 theme: 'dark'
+author:
+  name: 'Имя автора'
+  avatar: '/images/logo.jpg'
+  bio: 'Hello MotherFucker !!! '
+  social:
+    - name: 'GitHub'
+      url: 'https://github.com/автор'
+    - name: 'Twitter'
+      url: 'https://twitter.com/автор'
 ---
 
-Hello MotherFucker !!! 
+![Macbook|wide](/static/images/macbook.jpeg)
 
-![Admin|small](https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80)
+Здесь вы можете добавить описание автора, его фотографию и ссылки на его социальные сети. Эти данные будут использоваться в шаблоне authors/single.html, который вы указали ранее. 
 
----
-
-
-![Macbook](/static/images/ales-nesetril-Im7lZjxeLhg-unsplash.jpeg)
+Например, вставьте следующий код вместо черновика в вашем примере:
 

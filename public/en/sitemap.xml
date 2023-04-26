@@ -2,17 +2,116 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tech-horizon.netlify.app/en/about/</loc>
-    <lastmod>2023-04-25T00:00:00+00:00</lastmod>
+    <loc>https://tech-horizon.netlify.app/en/posts/about/</loc>
+    <lastmod>2023-04-26T13:06:38+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="https://tech-horizon.netlify.app/uk/about/"
+                href="https://tech-horizon.netlify.app/uk/posts/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tech-horizon.netlify.app/en/about/"
+                href="https://tech-horizon.netlify.app/en/posts/about/"
+                />
+  </url><url>
+    <loc>https://tech-horizon.netlify.app/en/posts/</loc>
+    <lastmod>2023-04-26T13:06:38+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://tech-horizon.netlify.app/uk/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tech-horizon.netlify.app/en/posts/"
+                />
+  </url><url>
+    <loc>https://tech-horizon.netlify.app/en/</loc>
+    <lastmod>2023-04-26T13:06:38+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://tech-horizon.netlify.app/uk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://tech-horizon.netlify.app/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tech-horizon.netlify.app/en/"
+                />
+  </url><url>
+    <loc>https://tech-horizon.netlify.app/en/tags/blockchain-transactions/</loc>
+    <lastmod>2023-04-25T13:06:38+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://tech-horizon.netlify.app/uk/tags/blockchain-transactions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tech-horizon.netlify.app/en/tags/blockchain-transactions/"
+                />
+  </url><url>
+    <loc>https://tech-horizon.netlify.app/en/tags/decentralization/</loc>
+    <lastmod>2023-04-25T13:06:38+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://tech-horizon.netlify.app/uk/tags/decentralization/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tech-horizon.netlify.app/en/tags/decentralization/"
+                />
+  </url><url>
+    <loc>https://tech-horizon.netlify.app/en/tags/digital-assets/</loc>
+    <lastmod>2023-04-25T13:06:38+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://tech-horizon.netlify.app/uk/tags/digital-assets/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tech-horizon.netlify.app/en/tags/digital-assets/"
+                />
+  </url><url>
+    <loc>https://tech-horizon.netlify.app/en/tags/security/</loc>
+    <lastmod>2023-04-25T13:06:38+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://tech-horizon.netlify.app/uk/tags/security/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tech-horizon.netlify.app/en/tags/security/"
+                />
+  </url><url>
+    <loc>https://tech-horizon.netlify.app/en/posts/top-14-best-and-most-popular-stock-research-websites/</loc>
+    <lastmod>2023-04-25T13:06:38+08:00</lastmod>
+  </url><url>
+    <loc>https://tech-horizon.netlify.app/en/tags/transparency/</loc>
+    <lastmod>2023-04-25T13:06:38+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://tech-horizon.netlify.app/uk/tags/transparency/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tech-horizon.netlify.app/en/tags/transparency/"
                 />
   </url><url>
     <loc>https://tech-horizon.netlify.app/en/tags/data-analysis/</loc>
@@ -24,39 +123,110 @@
     <loc>https://tech-horizon.netlify.app/en/tags/financial-econometrics/</loc>
     <lastmod>2023-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tech-horizon.netlify.app/en/im_a_post/</loc>
+    <loc>https://tech-horizon.netlify.app/en/posts/introduction-to-financial-econometrics-unraveling-the-complex-world-of-financial-data/</loc>
     <lastmod>2023-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tech-horizon.netlify.app/en/financial_econometrics_intro/</loc>
-    <lastmod>2023-04-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tech-horizon.netlify.app/en/</loc>
-    <lastmod>2023-04-23T00:00:00+00:00</lastmod>
+    <loc>https://tech-horizon.netlify.app/en/tags/blockchain/</loc>
+    <lastmod>2023-04-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="https://tech-horizon.netlify.app/uk/"
+                href="https://tech-horizon.netlify.app/uk/tags/blockchain/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tech-horizon.netlify.app/en/"
+                href="https://tech-horizon.netlify.app/en/tags/blockchain/"
                 />
   </url><url>
-    <loc>https://tech-horizon.netlify.app/en/stock_market_guide_begginer/</loc>
+    <loc>https://tech-horizon.netlify.app/en/posts/blockchain-for-supply-chain-advantages-and-challenges/</loc>
+    <lastmod>2023-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tech-horizon.netlify.app/en/tags/cost/</loc>
+    <lastmod>2023-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tech-horizon.netlify.app/en/tags/efficiency/</loc>
+    <lastmod>2023-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tech-horizon.netlify.app/en/tags/integration/</loc>
+    <lastmod>2023-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tech-horizon.netlify.app/en/tags/management/</loc>
+    <lastmod>2023-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tech-horizon.netlify.app/en/tags/regulation/</loc>
+    <lastmod>2023-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tech-horizon.netlify.app/en/tags/scalability/</loc>
+    <lastmod>2023-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tech-horizon.netlify.app/en/tags/supply-chain/</loc>
+    <lastmod>2023-04-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://tech-horizon.netlify.app/uk/tags/supply-chain/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tech-horizon.netlify.app/en/tags/supply-chain/"
+                />
+  </url><url>
+    <loc>https://tech-horizon.netlify.app/en/posts/stock-market-analysis-beginners-guide/</loc>
     <lastmod>2023-04-15T13:06:38+08:00</lastmod>
   </url><url>
     <loc>https://tech-horizon.netlify.app/en/tags/analysis/</loc>
     <lastmod>2023-04-15T13:06:38+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://tech-horizon.netlify.app/uk/tags/analysis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tech-horizon.netlify.app/en/tags/analysis/"
+                />
   </url><url>
     <loc>https://tech-horizon.netlify.app/en/tags/beginner/</loc>
     <lastmod>2023-04-15T13:06:38+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://tech-horizon.netlify.app/uk/tags/beginner/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tech-horizon.netlify.app/en/tags/beginner/"
+                />
   </url><url>
     <loc>https://tech-horizon.netlify.app/en/tags/investing/</loc>
     <lastmod>2023-04-15T13:06:38+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://tech-horizon.netlify.app/uk/tags/investing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tech-horizon.netlify.app/en/tags/investing/"
+                />
   </url><url>
     <loc>https://tech-horizon.netlify.app/en/tags/stock-market/</loc>
     <lastmod>2023-04-15T13:06:38+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://tech-horizon.netlify.app/uk/tags/stock-market/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tech-horizon.netlify.app/en/tags/stock-market/"
+                />
   </url><url>
     <loc>https://tech-horizon.netlify.app/en/tags/adoption/</loc>
     <lastmod>2023-03-16T00:00:00+00:00</lastmod>
@@ -70,32 +240,10 @@
     <loc>https://tech-horizon.netlify.app/en/tags/autonomous-vehicles/</loc>
     <lastmod>2023-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tech-horizon.netlify.app/en/tags/blockchain/</loc>
+    <loc>https://tech-horizon.netlify.app/en/posts/blockchain-and-retail-opportunities-and-challenges/</loc>
     <lastmod>2023-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tech-horizon.netlify.app/en/bchain_in_retail/</loc>
-    <lastmod>2023-03-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tech-horizon.netlify.app/en/supply_chains/</loc>
-    <lastmod>2023-03-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tech-horizon.netlify.app/en/tags/blockchain-transactions/</loc>
-    <lastmod>2023-03-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk"
-                href="https://tech-horizon.netlify.app/uk/tags/blockchain-transactions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tech-horizon.netlify.app/en/tags/blockchain-transactions/"
-                />
-  </url><url>
-    <loc>https://tech-horizon.netlify.app/en/blockchain_vs_trad_dbs/</loc>
-    <lastmod>2023-03-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tech-horizon.netlify.app/en/tags/cost/</loc>
+    <loc>https://tech-horizon.netlify.app/en/posts/blockchain-vs-traditional-databases-which-one-is-better/</loc>
     <lastmod>2023-03-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tech-horizon.netlify.app/en/tags/counterfeit-prevention/</loc>
@@ -113,35 +261,6 @@
     <loc>https://tech-horizon.netlify.app/en/tags/databases/</loc>
     <lastmod>2023-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tech-horizon.netlify.app/en/tags/decentralization/</loc>
-    <lastmod>2023-03-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk"
-                href="https://tech-horizon.netlify.app/uk/tags/decentralization/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tech-horizon.netlify.app/en/tags/decentralization/"
-                />
-  </url><url>
-    <loc>https://tech-horizon.netlify.app/en/tags/digital-assets/</loc>
-    <lastmod>2023-03-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk"
-                href="https://tech-horizon.netlify.app/uk/tags/digital-assets/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tech-horizon.netlify.app/en/tags/digital-assets/"
-                />
-  </url><url>
-    <loc>https://tech-horizon.netlify.app/en/tags/efficiency/</loc>
-    <lastmod>2023-03-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://tech-horizon.netlify.app/en/tags/finance/</loc>
     <lastmod>2023-03-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -154,10 +273,7 @@
     <loc>https://tech-horizon.netlify.app/en/tags/healthcare/</loc>
     <lastmod>2023-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tech-horizon.netlify.app/en/how_to_build_bchain_app/</loc>
-    <lastmod>2023-03-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tech-horizon.netlify.app/en/tags/integration/</loc>
+    <loc>https://tech-horizon.netlify.app/en/posts/how-to-build-a-blockchain-application-in-5-easy-steps/</loc>
     <lastmod>2023-03-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tech-horizon.netlify.app/en/tags/interoperability/</loc>
@@ -172,9 +288,6 @@
     <loc>https://tech-horizon.netlify.app/en/tags/loyalty-programs/</loc>
     <lastmod>2023-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tech-horizon.netlify.app/en/tags/management/</loc>
-    <lastmod>2023-03-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://tech-horizon.netlify.app/en/tags/payment-processing/</loc>
     <lastmod>2023-03-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -184,70 +297,42 @@
     <loc>https://tech-horizon.netlify.app/en/tags/real-estate/</loc>
     <lastmod>2023-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tech-horizon.netlify.app/en/tags/regulation/</loc>
-    <lastmod>2023-03-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://tech-horizon.netlify.app/en/tags/retail/</loc>
-    <lastmod>2023-03-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tech-horizon.netlify.app/en/tags/scalability/</loc>
-    <lastmod>2023-03-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tech-horizon.netlify.app/en/tags/security/</loc>
     <lastmod>2023-03-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="uk"
-                href="https://tech-horizon.netlify.app/uk/tags/security/"
+                href="https://tech-horizon.netlify.app/uk/tags/retail/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tech-horizon.netlify.app/en/tags/security/"
+                href="https://tech-horizon.netlify.app/en/tags/retail/"
                 />
   </url><url>
     <loc>https://tech-horizon.netlify.app/en/tags/smart-contracts/</loc>
     <lastmod>2023-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tech-horizon.netlify.app/en/tags/supply-chain/</loc>
-    <lastmod>2023-03-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://tech-horizon.netlify.app/en/tags/supply-chain-management/</loc>
     <lastmod>2023-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tech-horizon.netlify.app/en/blockchain_in_automotive_industry/</loc>
+    <loc>https://tech-horizon.netlify.app/en/posts/the-advantages-of-blockchain-in-the-automotive-industry/</loc>
     <lastmod>2023-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tech-horizon.netlify.app/en/blockchain_predictions/</loc>
+    <loc>https://tech-horizon.netlify.app/en/posts/the-future-of-blockchain-predictions-for-the-next-decade/</loc>
     <lastmod>2023-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tech-horizon.netlify.app/en/tags/transparency/</loc>
-    <lastmod>2023-03-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="uk"
-                href="https://tech-horizon.netlify.app/uk/tags/transparency/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tech-horizon.netlify.app/en/tags/transparency/"
-                />
-  </url><url>
-    <loc>https://tech-horizon.netlify.app/en/htw_transactions/</loc>
+    <loc>https://tech-horizon.netlify.app/en/posts/understanding-blockchain-transactions-how-they-work/</loc>
     <lastmod>2023-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tech-horizon.netlify.app/en/blockchain_in_renewable_energy/</loc>
+    <loc>https://tech-horizon.netlify.app/en/posts/understanding-the-role-of-blockchain-in-renewable-energy/</loc>
     <lastmod>2023-03-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tech-horizon.netlify.app/en/tags/voting/</loc>
     <lastmod>2023-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tech-horizon.netlify.app/en/what_is_blockchain/</loc>
+    <loc>https://tech-horizon.netlify.app/en/posts/what-is-blockchain-a-comprehensive-guide/</loc>
     <lastmod>2023-03-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tech-horizon.netlify.app/en/14_best_screeners/</loc>
-    <lastmod>2023-03-01T13:06:38+08:00</lastmod>
   </url><url>
     <loc>https://tech-horizon.netlify.app/en/tags/cost-reductions./</loc>
   </url>

@@ -1,0 +1,27 @@
+{{ define "main" }}
+  <div class="author-info">
+    <div class="author-avatar">
+      <img src="{{ .Params.avatar }}" alt="{{ .Params.name }} avatar">
+    </div>
+    <div class="author-details">
+      <h1 class="author-name">{{ .Params.name }}</h1>
+      <p class="author-bio">{{ .Params.bio }}</p>
+      {{ with .Params.social }}
+        <ul class="author-social">
+          {{ range . }}
+            <li><a href="{{ .url }}">{{ .name }}</a></li>
+          {{ end }}
+        </ul>
+      {{ end }}
+    </div>
+  </div>
+
+  <h2 class="author-articles-title">Статьи автора</h2>
+  <ul class="author-articles">
+    {{ range .Site.RegularPages }}
+      {{ if eq .Params.author $.Name }}
+        <li><a href="{{ site.BaseURL }}/authors/{{ .Params.author | urlize }}">{{ .Params.author }}</a>: <a href="{{ .Permalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    {{ end }}
+  </ul>
+{{ end }}

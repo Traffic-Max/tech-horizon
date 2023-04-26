@@ -4,12 +4,13 @@ description: "This article explores the potential benefits of integrating blockc
 date: 2023-03-16
 draft: false
 author: 't-max'
-cover: ''
+cover: 'https://source.unsplash.com/800x450/?blockchain%20in%20renewable%20energy'
 tags:
   - Blockchain
 language: "en"
 theme: dark
 type: "post"
+slug: "understanding-the-role-of-blockchain-in-renewable-energy"
 ---
 
 

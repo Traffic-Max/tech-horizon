@@ -1,14 +1,17 @@
 ---
 title: '14 найкращих та найпопулярніших веб-сайтів фондових досліджень'
-date: '2023-03-01'
+date: '2023-04-24T13:11:38+08:00'
 draft: false
+featured: false
+plain: true
 description: 'Дослідження фондового ринку важливо, щоб дозволити трейдерам охопити всю історію діяльності компанії, в яку вони планують інвестувати або купувати акції для майбутньої прибутковості. Ця інформація має вирішальне значення і містить повну бібліотеку фінансових показників кожної перерахованої компанії (включаючи зростання та падіння кожного року) з моменту її публічного запуску. Він також висвітлює сильні, слабкі сторони, прибутковість, збитки та інші прогнози з вичерпними деталями та детермінантами.'
 author: 't-max'
-cover: 'https://images.unsplash.com/photo-1622760274068-a26adafc984f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80'
+cover: 'https://source.unsplash.com/800x450/?stock%20market'
 tags: [Blockchain Transactions, Digital Assets, Decentralization, Security, Transparency]
 language: 'uk'
 theme: 'dark'
 type: "post"
+slug: "14-best-and-most-popular-stock-research-websites"
 ---
 
 # 14 найкращих та найпопулярніших веб-сайтів фондових досліджень

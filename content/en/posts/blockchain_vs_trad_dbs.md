@@ -4,11 +4,12 @@ description: "This article explores the differences between blockchain and tradi
 date: 2023-03-16
 draft: false
 author: 't-max'
-cover: ''
+cover: 'https://source.unsplash.com/800x450/?blockchain%20databases'
 tags: [blockchain, databases, decentralization, security, privacy, governance, interoperability]
 language: "en"
 theme: dark
 type: "post"
+slug: "blockchain-vs-traditional-databases-which-one-is-better"
 ---
 
 # Blockchain vs. Traditional Databases: Which One Is Better?

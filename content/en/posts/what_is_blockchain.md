@@ -4,11 +4,12 @@ description: "This article provides a comprehensive guide to blockchain technolo
 date: 2023-03-16
 draft: false
 author: 't-max'
-cover: ''
+cover: 'https://source.unsplash.com/800x450/?what%20is%20blockchain'
 tags: [Blockchain, Cryptocurrency, Security, Transparency, Efficiency, Decentralization, Smart Contracts, "Supply Chain Management", Healthcare, "Voting", "Real Estate"]
 language: "en"
 theme: dark
 type: "post"
+slug: "what-is-blockchain-a-comprehensive-guide"
 ---
 
 # Blockchain Technology: A Comprehensive Guide
