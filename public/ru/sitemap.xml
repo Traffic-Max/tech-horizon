@@ -5,13 +5,13 @@
     <loc>https://tech-horizon.netlify.app/ru/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://tech-horizon.netlify.app/en/"
+                hreflang="uk"
+                href="https://tech-horizon.netlify.app/uk/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="uk"
-                href="https://tech-horizon.netlify.app/uk/"
+                hreflang="en"
+                href="https://tech-horizon.netlify.app/en/"
                 />
     <xhtml:link
                 rel="alternate"

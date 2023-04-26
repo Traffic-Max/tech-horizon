@@ -20,7 +20,7 @@ theme: 'light'
 
 新编辑器搭载了一个经过改进的发光板系统界面，可显示nDisplay墙的预览。除了使创建、移动和编辑发光板以及保存预设变得直观和高效外，新的发光板系统还可以在墙上维持发光板的形状，消除失真。
 
-![展示图片|big](https://cdn2.unrealengine.com/editing-light-cards-in-unreal-engine-5-1-1920x1080-4a117d589f77.jpg?resize=1&w=1920)
+![展示图片|big](/SOURCE/MEDIA_FOLDER/展示图片!big.jpg)
 
 ## 在虚幻引擎5.1中编辑发光板
 
@@ -35,7 +35,7 @@ theme: 'light'
 与此同时，虚幻引擎中的虚拟摄像机得到了全面改造，它具备了全新的底层框架，能够利用Epic的像素流送技术提高响应速度和可靠性；用户界面也得到了更新，它拥有以摄像机为中心的现代化设计，摄像机操作员将感到更加熟悉。我们还增加了连接硬件设备的功能，为将来的用户界面定制奠定基础。
 虚幻引擎5.1中改进的虚拟摄像机
 
-![这是一张宽屏展示图片|wide](https://cdn2.unrealengine.com/enhanced-vcam-in-unreal-engine-5-1-1920x1080-0534e1a4c66f.jpg?resize=1&w=1920)
+![这是一张宽屏展示图片|wide](/SOURCE/MEDIA_FOLDER/这是一张宽屏展示图片!wide.jpg)
 
 ## 改进的DMX工作流程
 
@@ -45,7 +45,7 @@ theme: 'light'
 
 虚幻引擎的全动态全局光照和反射系统Lumen现在提供了对nDisplay的初步支持。有了Lumen，当执行改变太阳角度、调整光源或定位反光板等操作时，间接光照会动态做出适应性调整。之前，这些变更还需要一个烘焙步骤，导致创作流程被打断。
 
-![展示图片](https://cdn2.unrealengine.com/lumen-support-for-ndisplay-in-unreal-engine-5-1-1920x1080-33c908592bd0.jpg?resize=1&w=1920)
+![展示图片](/SOURCE/MEDIA_FOLDER/展示图片.jpg)
 
 ## 虚幻引擎5.1中Lumen对nDisplay的支持
 
@@ -55,7 +55,7 @@ theme: 'light'
 
 现在处于测试阶段的机器学习（ML）变形器能够使用自定义的Maya插件训练将在虚幻引擎中实时运行的机器学习模型，从而为非线性变形器、复杂的专有绑定或任意变形生成近似的高保真模型。这允许你模拟电影质量级的变形，如弯曲的肌肉、隆起的静脉和拉扯的皮肤。
 
-![机器学习变形器（左）vs. 线性蒙皮（右）|wide](https://cdn2.unrealengine.com/machine-learning-deformer-in-unreal-engine-5-1-off-1920x1080-326c44f4c4a3.jpg?resize=1&w=1000)
+![机器学习变形器（左）vs. 线性蒙皮（右）|wide](/SOURCE/MEDIA_FOLDER/机器学习变形器（左）vs._线性蒙皮（右）!wide.jpg)
 
 角色变形方面的其他改进包括完善了变形器图形编辑器，从而简化了图形的创建和编辑。
 
@@ -67,7 +67,7 @@ theme: 'light'
 
 ## 虚幻引擎5.1中Sequencer对约束的支持
 
-![展示](https://cdn2.unrealengine.com/sequencer-support-for-constraints-in-unreal-engine-5-1-1920x1080-126851c2a874.jpg?resize=1&w=1920)
+![展示](/SOURCE/MEDIA_FOLDER/展示.jpg)
 
 Sequencer还通过蓝图和Python脚本公开了更多功能；我们还为其重构了用户界面和用户体验，这不仅提高了稳定性和可扩展性，也完善了动画创作和编辑的工作流程。
 除此之外，还有很多……

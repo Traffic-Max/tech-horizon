@@ -38,22 +38,22 @@ cover: "https://www.apple.com.cn/newsroom/images/apple-logo_black.jpg.landing-re
 ```markdown
 Image - Wide
 
-![Image Wide|wide](https://www.apple.com.cn/newsroom/images/apple-logo_black.jpg.landing-regular_2x.jpg)
+![Image Wide|wide](/SOURCE/MEDIA_FOLDER/Image_Wide!wide.jpg)
 
 Image - Big
 
-![Image Big|big](https://www.apple.com.cn/newsroom/images/apple-logo_black.jpg.landing-regular_2x.jpg)
+![Image Big|big](/SOURCE/MEDIA_FOLDER/Image_Big!big.jpg)
 
 Image - Inline
 
-![Image Inline|inline](https://www.apple.com.cn/newsroom/images/apple-logo_black.jpg.landing-regular_2x.jpg)
+![Image Inline|inline](/SOURCE/MEDIA_FOLDER/Image_Inline!inline.jpg)
 ```
 
-![Image Wide|wide](https://www.apple.com.cn/newsroom/images/apple-logo_black.jpg.landing-regular_2x.jpg)
+![Image Wide|wide](/SOURCE/MEDIA_FOLDER/Image_Wide!wide.jpg)
 
-![Image Big|big](https://www.apple.com.cn/newsroom/images/apple-logo_black.jpg.landing-regular_2x.jpg)
+![Image Big|big](/SOURCE/MEDIA_FOLDER/Image_Big!big.jpg)
 
-![Image Inline|inline](https://www.apple.com.cn/newsroom/images/apple-logo_black.jpg.landing-regular_2x.jpg)
+![Image Inline|inline](/SOURCE/MEDIA_FOLDER/Image_Inline!inline.jpg)
 
 # Block Quotes
 

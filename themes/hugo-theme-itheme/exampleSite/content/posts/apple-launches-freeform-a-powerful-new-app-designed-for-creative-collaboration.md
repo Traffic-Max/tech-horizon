@@ -9,7 +9,7 @@ tags: ["新闻稿", "Apple", "无边记"]
 theme: 'light'
 featured: false
 ---
-![无边记为 iPhone、iPad 和 Mac 提供了灵活多用的画布，在同一个地方汇聚对话主题、内容及灵感创意。](https://www.apple.com.cn/newsroom/images/product/apps/standard/Apple-Freeform-hero_big.jpg.large_2x.jpg)
+![无边记为 iPhone、iPad 和 Mac 提供了灵活多用的画布，在同一个地方汇聚对话主题、内容及灵感创意。](/SOURCE/MEDIA_FOLDER/无边记为_iPhone、iPad_和_Mac_提供了灵活多用的画布，在同一个地方汇聚对话主题、内容及灵感创意。.jpg)
 
 无边记是一款全新 app，今日正式推出，包括 iOS、iPadOS 和 macOS 最新版本。无边记帮助用户在灵活多用的画布上管理并以视觉方式展示内容，在同一个地方查看、共享与协作，而不必考虑排版或页面大小问题。用户无需离开画板，即可添加不同类型的文件并实时预览。无边记为协作而设计，让用户更轻松地邀请他人在同一块白板上工作还能在 FaceTime 通话期间与他人协作。无边记白板存储在 iCloud 上，用户可以在不同设备间同步内容。
 
@@ -21,7 +21,7 @@ featured: false
 
 这款 app 提供了多种画笔类型和颜色选项，供用户描绘创意、添加注释、绘制图表。iPhone 与 iPad 用户可以在画布上的任意地方用手指作画；无边记还支持 Apple Pencil，让用户更轻松地随时随地在 iPad 上描绘灵感。
 
-![无论使用随手写记笔记、用绘画工具画图、用蜡笔或填充工具填色，无边记用户都能让创意进入新境界。](https://www.apple.com.cn/newsroom/images/product/apps/standard/Apple-Freeform-Markup_big.jpg.large_2x.jpg)
+![无论使用随手写记笔记、用绘画工具画图、用蜡笔或填充工具填色，无边记用户都能让创意进入新境界。](/SOURCE/MEDIA_FOLDER/无论使用随手写记笔记、用绘画工具画图、用蜡笔或填充工具填色，无边记用户都能让创意进入新境界。.jpg)
 
 iPad Pro 上的无边记中展示着随手写笔记和一系列绘画工具。
 无论使用随手写记笔记、用绘画工具画图、用蜡笔或填充工具填色，无边记用户都能让创意进入新境界。
@@ -32,7 +32,7 @@ iPad Pro 上的无边记中展示着随手写笔记和一系列绘画工具。
 iPad Pro 的无边记画板支持多种类型的文件。
 无边记画板支持多种类型的文件，用户无需离开画板即可实时预览，特别适合为学校项目汇集文档或者规划下一次旅行。
 
-![无边记画板支持多种类型的文件，用户无需离开画板即可实时预览，特别适合为学校项目汇集文档或者规划下一次旅行。](https://www.apple.com.cn/newsroom/images/product/apps/standard/Apple-Freeform-files-support_big.jpg.large_2x.jpg)
+![无边记画板支持多种类型的文件，用户无需离开画板即可实时预览，特别适合为学校项目汇集文档或者规划下一次旅行。](/SOURCE/MEDIA_FOLDER/无边记画板支持多种类型的文件，用户无需离开画板即可实时预览，特别适合为学校项目汇集文档或者规划下一次旅行。.jpg)
 
 ## 协作空间
 
@@ -45,7 +45,7 @@ iPad Pro 的无边记画板支持多种类型的文件。
 iPad Pro 上，无边记正在使用 FaceTime 通话协作功能。
 依托 FaceTime 和 iCloud 集成，无边记为协作而设计，帮助用户更轻松地邀请他人在画板上共同工作。
 
-![依托 FaceTime 和 iCloud 集成，无边记为协作而设计，帮助用户更轻松地邀请他人在画板上共同工作。](https://www.apple.com.cn/newsroom/images/product/apps/standard/Apple-Freeform-FaceTime_big.jpg.large_2x.jpg)
+![依托 FaceTime 和 iCloud 集成，无边记为协作而设计，帮助用户更轻松地邀请他人在画板上共同工作。](/SOURCE/MEDIA_FOLDER/依托_FaceTime_和_iCloud_集成，无边记为协作而设计，帮助用户更轻松地邀请他人在画板上共同工作。.jpg)
 
 ## 推出时间
 

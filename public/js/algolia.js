@@ -1,7 +1,7 @@
 (() => {
   // ns-params:@params
-  var baseURL = "https://tech-horizon.netlify.app";
-  var params = { blogroll: [{ name: "Apple", url: "https://Apple.com/" }, { name: "Google", url: "https://Google.com/" }], contentdir: "content/uk", defaultcover: "https://source.unsplash.com/800x450/?{Blockchain}", email: "long_py@proton.me", languagename: "\u0423\u043A\u0440\u0430\u0457\u043D\u0441\u044C\u043A\u0430", socialmedia: [{ name: "Github", url: "https://github.com/traffic-max" }, { name: "Twitter", url: "https://twitter.com/" }], title: "Tech Horizon", weight: 3 };
+  var baseURL = "https://tech-horizon.netlify.app/";
+  var params = { blogroll: [{ name: "Apple", url: "https://Apple.com/" }, { name: "Google", url: "https://Google.com/" }], contentdir: "content/en", defaultcover: "https://source.unsplash.com/800x450/?{Blockchain}", email: "long_py@proton.me", languagename: "English", mainSections: ["posts"], mainsections: ["posts"], socialmedia: [{ name: "Github", url: "https://github.com/traffic-max" }, { name: "Twitter", url: "https://twitter.com/" }], title: "Tech Horizon", weight: 3 };
 
   // <stdin>
   var { appid, appkey, searchindex: indexName, enabled } = params.algolia;

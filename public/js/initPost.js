@@ -1,6 +1,6 @@
 (() => {
   // ns-params:@params
-  var params_default = { baseURL: "https://tech-horizon.netlify.app" };
+  var params_default = { baseURL: "https://tech-horizon.netlify.app/" };
 
   // <stdin>
   var scriptMd5 = document.createElement("script");

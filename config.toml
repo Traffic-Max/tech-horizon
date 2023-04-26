@@ -1,4 +1,4 @@
-baseURL = 'https://tech-horizon.netlify.app'
+baseURL = 'https://tech-horizon.netlify.app/'
 title = 'Tech Horizon'
 subtitle = 'Tech horizon - The latest version of future technologys endpoit'
 theme = 'hugo-theme-itheme'

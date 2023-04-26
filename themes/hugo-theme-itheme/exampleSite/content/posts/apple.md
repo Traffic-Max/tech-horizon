@@ -9,7 +9,7 @@ tags: ["特写", "环保", "Apple", "印度", "红树林", "保育", "新闻稿"
 theme: 'dark'
 ---
 
-![在印度马哈拉施特拉邦，Apple 与 Applied Environmental Research Foundation 展开合作，对红树林进行保护与培育。这一海岸森林生态系统可以吸收和存储大气中的二氧化碳。|wide](https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-Alibaug-canoe_Full-Bleed-Image.jpg.large_2x.jpg)
+![在印度马哈拉施特拉邦，Apple 与 Applied Environmental Research Foundation 展开合作，对红树林进行保护与培育。这一海岸森林生态系统可以吸收和存储大气中的二氧化碳。|wide](/SOURCE/MEDIA_FOLDER/在印度马哈拉施特拉邦，Apple_与_Applied_Environmental_Research_Foundation_展开合作，对红树林进行保护与培育。这一海岸森林生态系统可以吸收和存储大气中的二.jpg)
 
 在马哈拉施特拉邦繁华的滨海城市孟买以南仅约 96 公里的地方，出现了一个截然不同的世界。繁华都市的摩天大厦、餐厅、酒店、购物区、不计其数的“嘟嘟车”与现代汽车逐渐消失，未铺装的道路、棕榈树、山羊、拉车的牛、小型露天市场和路边餐馆出现在视野里。
 
@@ -18,7 +18,7 @@ Raigad 县的 Alibaug 连接了孟买与通向阿拉伯海的河网。海岸地�
 Applied Environmental Research Foundation（AERF）在 2021 年获得了 Apple 的资助。该组织正在这一地区进行探索，计划通过在当地社区中创设可持续的替代行业，来培育红树林生态系统的生物多样性与适应能力并从中受益，从而保护红树林的未来。保护协议将向当地村民提供持续性支持，以换取对土地的保护，并促进当地经济转型，使之有赖于保持红树林的完好与健康。 
 
 
-![在印度马哈拉施特拉邦 Raigad 县，当地村庄的渔民以捕捞红树林内及海岸的小虾、泥蟹等水产为生。](https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-fisherman-with-net_big_carousel.jpg.large_2x.jpg)
+![在印度马哈拉施特拉邦 Raigad 县，当地村庄的渔民以捕捞红树林内及海岸的小虾、泥蟹等水产为生。](/SOURCE/MEDIA_FOLDER/在印度马哈拉施特拉邦_Raigad_县，当地村庄的渔民以捕捞红树林内及海岸的小虾、泥蟹等水产为生。.jpg)
 
 
 AERF 还将从保护国际基金会（Conservation International）2018 年启动的哥伦比亚 Cispatá 试行蓝碳项目获得的经验应用到印度的红树林。
@@ -27,7 +27,7 @@ AERF 还将从保护国际基金会（Conservation International）2018 年启�
 
 AERF 主席 Archana Godbole 从小就热爱大自然。“植物代表了年龄与时间，”她表示，“而树木则代表了耐心。它们是时间的无声观众——我越是研究树木、了解树木，就越在它们面前感到渺小。我的经历让我逐渐意识到，我想为保护和拯救树木与森林而工作。”
 
-![Applied Environmental Research Foundation 主席 Archana Godbole 是一位植物分类学家，她在过去三十年间一直致力于以社区为基础的环保工作。](https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-Archana-Godbole_big.jpg.large_2x.jpg)
+![Applied Environmental Research Foundation 主席 Archana Godbole 是一位植物分类学家，她在过去三十年间一直致力于以社区为基础的环保工作。](/SOURCE/MEDIA_FOLDER/Applied_Environmental_Research_Foundation_主席_Archana_Godbole_是一位植物分类学家，她在过去三十年间一直致力于以社区为基础的环保工作。.jpg)
 
 
 专业植物分类学家 Godbole 在过去三十年间一直致力于以社区为基础的环保工作。在 Raigad 县，AERF 正在寻求与当地社区达成环保协议。由于海水侵袭和人造堤坝的损毁，当地居民的作物与农田的损失惨重。
@@ -36,24 +36,24 @@ AERF 主席 Archana Godbole 从小就热爱大自然。“植物代表了年龄�
 
 下面，我们可以看到这些村庄的面貌，以及被很多人称之为家的社区面对日益严峻的环境灾害所表现出的适应能力。
 
-![Karanjveera 村的长者、75 岁的 Namdev Waitaram More 是传统捕鱼技术的行家。他正在帮助 AERF 联系社区成员，讨论红树林保育的机遇，以提供替代行业，支持本地人的生计。|inline](https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-Namdev-Waitaram-More_inline.jpg.large_2x.jpg)
+![Karanjveera 村的长者、75 岁的 Namdev Waitaram More 是传统捕鱼技术的行家。他正在帮助 AERF 联系社区成员，讨论红树林保育的机遇，以提供替代行业，支持本地人的生计。|inline](/SOURCE/MEDIA_FOLDER/Karanjveera_村的长者、75_岁的_Namdev_Waitaram_More_是传统捕鱼技术的行家。他正在帮助_AERF_联系社区成员，讨论红树林保育的机遇，以提供替代行业，支持本地人的生计.jpg)
 
 Karanjveera 是一个小型内陆村庄，也是许多农民和渔民及其家人的家园。当地渔民通常以捕捞小虾蟹为主。Namdev Waitaram More 是村里的长者，也是传统捕鱼技术的行家。75 岁高龄的 More 一生都与红树林和谐共处，并深深尊敬它们抵御海水侵袭稻田的保护能力。
 
 More 正与表弟帮助其他社区成员与 AERF 联系，探讨村中盐沼和红树林保育问题。“红树林就像海绵。”他说道，“人们与这里的红树林关系密切。如果红树林没了，我们的堤坝就没了，我们的稻田也就没了。因为我们通过食物、堤坝和红树林相连，我们才得以生存。”
 
-![农民 Usha Thakur 来自 Hashiware 村，这里的农田已经完全被淹没。她是首批与 AERF 签订保护协议的村民之一，保护现已覆盖本地的红树林。](https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-Usha-Thakur_big.jpg.large_2x.jpg)
+![农民 Usha Thakur 来自 Hashiware 村，这里的农田已经完全被淹没。她是首批与 AERF 签订保护协议的村民之一，保护现已覆盖本地的红树林。](/SOURCE/MEDIA_FOLDER/农民_Usha_Thakur_来自_Hashiware_村，这里的农田已经完全被淹没。她是首批与_AERF_签订保护协议的村民之一，保护现已覆盖本地的红树林。.jpg)
 
 Usha 和儿子 Tushar Thakur 都是 Hashiware 的农民。这个村庄位于 Amba 河畔，自从本地堤坝于 1990 年溃决后，这里的农田就一直淹没在海水之下。这里现已被红树林覆盖，但往日的残留依稀可见，遭弃置的房屋矗立在泥水中，距离河岸仅有几米。Thakur 是首批与 AERF 签订红树林保护协议的村民之一。
 从 1996 年开始，曾经属于 Hashiware 村农民的农田就已被红树林覆盖。
 
 “通过我们的工作与对红树林重要性的警示，以及创造可持续创收活动的机会，我们为 Raigad 县的沿海社区带来了希望。”AERF 的 Godbole 介绍道。
 
-![相对陆生森林，健康的红树林生态系统可以在土地中存储更多碳，这种机制被称为“蓝碳”。](https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-coastline_big.jpg.large_2x.jpg)
+![相对陆生森林，健康的红树林生态系统可以在土地中存储更多碳，这种机制被称为“蓝碳”。](/SOURCE/MEDIA_FOLDER/相对陆生森林，健康的红树林生态系统可以在土地中存储更多碳，这种机制被称为“蓝碳”。.jpg)
 
 红树林保护印度沿海村庄的能力在近年得到了展现。2004 年，印尼海底强烈地震引发的多重海啸对印度东海岸造成了冲击。从那时起，人们意识到红树林是本地社区的无声守护者，吸收着巨浪的震撼，保护着岸边的村庄。在过去几年间，强热带气旋越来越频繁地侵袭这一地区，包括 2020 年的 Nisarga 和 2021 年的 Tauktae。在 Raigad 县，村民们正在努力保护红树林，从而保护自己的生计与福祉。 
 
-![渔民 Mangesh Patil 来自 Ganesh Patti 村。在当地一处堤坝由于海潮上升溃决后，这里已经完全被海水淹没。但他仍然返回了儿时的家。“这是我们出生的地方。”他说道，“我们在这里很开心。所以我们总会回到这里。”](https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-Mangesh-Patil_big.jpg.large_2x.jpg)
+![渔民 Mangesh Patil 来自 Ganesh Patti 村。在当地一处堤坝由于海潮上升溃决后，这里已经完全被海水淹没。但他仍然返回了儿时的家。“这是我们出生的地方。”他说道，“我们在这里很开心。所以我们总会回到这里。”](/SOURCE/MEDIA_FOLDER/渔民_Mangesh_Patil_来自_Ganesh_Patti_村。在当地一处堤坝由于海潮上升溃决后，这里已经完全被海水淹没。但他仍然返回了儿时的家。“这是我们出生的地方。”他说道，“我们在这里很开.jpg)
 
 在 Ganesh Patti 村，农民们同意各人负责一部分堤坝的维护，将农田与红树林和河岸分离。但个人的维护工作还不够。当地渔民 Mangesh Patil 的家现已毁坏，被红树林所围绕。海浪和越来越高的海潮逐渐毁掉了他的房子。
 但在这个已消失的村落的村民看来，一切似乎发生在一夜之间。
@@ -63,17 +63,17 @@ Usha 和儿子 Tushar Thakur 都是 Hashiware 的农民。这个村庄位于 Amb
 
 “无论大自然给人类什么样的条件，我们都应该学会生存。”Patil 说道，“我们就是这样做的。现在，我们与这些红树林之间已经建立了联系。这里是我们出生的地方，我们在这里很开心。所以我们总是会回到这里。”
 
-![Apple 对 AERF 拨款的一部分用于向当地村民提供便携生物质炉具，作为替代烹饪方式，无需再使用砍伐红树林获取的木材来生火。](https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-bio-stove_big.jpg.large_2x.jpg)
+![Apple 对 AERF 拨款的一部分用于向当地村民提供便携生物质炉具，作为替代烹饪方式，无需再使用砍伐红树林获取的木材来生火。](/SOURCE/MEDIA_FOLDER/Apple_对_AERF_拨款的一部分用于向当地村民提供便携生物质炉具，作为替代烹饪方式，无需再使用砍伐红树林获取的木材来生火。.jpg)
 
 在与当地村庄签署环保协议提供资金支持的同时，Apple 的拨款还将用于购买与分发便携生物质炉具，让人们不再需要砍伐红树林，也能生火做饭。
 
-![来自 Pen Vashi 的渔民 Bhavik Patil 从小就在红树林里玩耍。现在，他靠在泥水中捕鱼捞蟹为生。](https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-Bhavik-Patil_big.jpg.large_2x.jpg)
+![来自 Pen Vashi 的渔民 Bhavik Patil 从小就在红树林里玩耍。现在，他靠在泥水中捕鱼捞蟹为生。](/SOURCE/MEDIA_FOLDER/来自_Pen_Vashi_的渔民_Bhavik_Patil_从小就在红树林里玩耍。现在，他靠在泥水中捕鱼捞蟹为生。.jpg)
 
 
 来自 Pen Vashi 的渔民 Bhavik Patil 十分熟悉与红树林相关的生计，他帮助 AERF 在 Raigad 县的村庄中与村民探讨相关问题。出生在渔业家庭的 Patil 记得自己小时候，父母会在下河工作前，在红树上绑上秋千，让他和兄弟玩耍。现在，在捕鱼捞蟹之余，他也和很多人一起，与 Mothe Bhal 和 Vithalwadi 等村庄的村民就保护和可持续利用红树林的问题展开磋商。为了保护红树林，他和同伴请求村民收集从树木上自然掉落的干燥树枝。 
 
 
-![Applied Environmental Research Foundation 的联合创始人 Jayant Sarnaik 相信 Raigad 县近年来的气候变化已经让当地村民们认识到保护与他们共存的红树林的重要意义。|inline](https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-Jayant-Sarnaik_inline.jpg.large_2x.jpg)
+![Applied Environmental Research Foundation 的联合创始人 Jayant Sarnaik 相信 Raigad 县近年来的气候变化已经让当地村民们认识到保护与他们共存的红树林的重要意义。|inline](/SOURCE/MEDIA_FOLDER/Applied_Environmental_Research_Foundation_的联合创始人_Jayant_Sarnaik_相信_Raigad_县近年来的气候变化已经让当地村民们认识到保护与他们共.jpg)
 
 对 AERF 的许多成员来说，保护红树林不仅仅是一项工作，更是他们的激情所在。Godbole 和联合创始人 Jayant Sarnaik 27 年前创建了这个组织，并持续致力于通过当地人参与的方式实现环保使命。
 

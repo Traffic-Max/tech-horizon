@@ -9,7 +9,7 @@ tags: ["功能", "虚幻引擎", "游戏"]
 theme: 'dark'
 ---
 
-![图片来自虚幻引擎官网|wide](https://cdn2.unrealengine.com/unreal-engine-5-1-features-for-fortnite-chapter-4-header-1920x1080-2e96869442d6.jpg?resize=1&w=1920)
+![图片来自虚幻引擎官网|wide](/SOURCE/MEDIA_FOLDER/图片来自虚幻引擎官网!wide.jpg)
 
 
 十二月初，当《堡垒之夜：大逃杀》第四章第一赛季发布时，玩家很难不注意到视觉保真度和细节得到了质的提升。这并不是巧合，通过虚幻引擎5.1，游戏的最新章节利用了虚幻引擎5最具创新性的全新功能，如Lumen、Nanite、虚拟阴影贴图和时序超级分辨率等等。
@@ -28,7 +28,7 @@ Lumen是虚幻引擎5中新引入的实时全局光照和反射解决方案。Lu
 
 《堡垒之夜》的世界充满了树木和草地，这是一片理想的试验场，让我们能够改进Lumen间接光照在这类环境中的质量。
 
-![堡垒之夜](https://cdn2.unrealengine.com/unreal-engine-5-1-features-for-fortnite-chapter-4-lumen-1920x1080-81dc92ab2770.jpg?resize=1&w=1920)
+![堡垒之夜](/SOURCE/MEDIA_FOLDER/堡垒之夜.jpg)
 
 
 ## Nanite
@@ -38,7 +38,7 @@ Nanite彻底改变了美术师和设计师构建虚拟世界的方式，它在�
 
 从UE 5.1开始，Nanite支持了全局位置偏移和遮罩材质，《堡垒之夜》的美术师能够在极精致的动画树木和树叶上使用这项技术。树叶和草叶被建模成了随风自然摇曳的几何体。为了确保在任意渲染距离都能保留所有重要的茂盛细节，我们还引入了一种让Nanite简化植被几何体的新方法。
 
-![游戏画面|wide](https://cdn2.unrealengine.com/unreal-engine-5-1-features-for-fortnite-chapter-4-nanite-1920x1080-e363f12e106c.jpg?resize=1&w=1920)
+![游戏画面|wide](/SOURCE/MEDIA_FOLDER/游戏画面!wide.jpg)
 
 ## 虚拟阴影贴图
 
@@ -48,7 +48,7 @@ Nanite彻底改变了美术师和设计师构建虚拟世界的方式，它在�
 
 《堡垒之夜》现在也在室内使用了许多较小的局部光源，如电灯或天花板顶灯。VSM缓存在这些地方表现出色。像这样大量使用局部光源让我们有机会在UE 5.1中进一步提高VMS的性能。我们可以通过“单通道投射”选项单次批量化处理许多光源的阴影更新，从而提高GPU的利用率。我们还建立了启发式方法，将远距离光源的阴影更新分摊到多个帧中。
 
-![游戏画面测试](https://cdn2.unrealengine.com/unreal-engine-5-1-features-for-fortnite-chapter-4-virtual-shadow-maps-1920x1080-b6c0aa573202.jpg?resize=1&w=1920)
+![游戏画面测试](/SOURCE/MEDIA_FOLDER/游戏画面测试.jpg)
 
 ## 局部曝光
 Lumen允许美术师创造出对比度极高的场景，例如，在非常暗的房间中透过窗户看到明亮的室外，或者在同一视图中，房屋表面被明亮的天空和太阳照亮，而室内几乎漆黑一片。对于这种视图，单一的曝光值效果不佳：明亮区域最终会出现过度曝光，而黑暗区域则会近乎全黑，无法看清。
@@ -65,14 +65,14 @@ UE5中的曝光系统针对《堡垒之夜：大逃杀》第四章做出了改�
 ## 云层
 为了配合《堡垒之夜：大逃杀》第四章中视觉保真度的飞跃，我们改进了虚幻引擎5.1中云层渲染的质量。为了满足严格的性能预算，UE5在内部会以较低的分辨率渲染云层，并对其进行向上采样。以前，这会导致遮挡了背景云层的前景网格体周围产生不完整的边缘，致使明亮的天空颜色在边缘处渗透出来。在UE 5.1中，我们可以更好地解决全分辨率下云层向上采样的问题，不会出现这种渗透。我们还改进了当网格体从云层前穿行而过时，对云层的时序重建工作，有效地减少了因移除遮挡而产生的尾迹。
 
-![云层图片](https://cdn2.unrealengine.com/unreal-engine-5-1-features-for-fortnite-4-chapter-clouds-1920x1080-fded45421b6c.jpg?resize=1&w=1920)
+![云层图片](/SOURCE/MEDIA_FOLDER/云层图片.jpg)
 
 ## Niagara
 《堡垒之夜》利用Niagara视效系统创造了由美术师主导的程序化破坏效果。Niagara能够对游戏做出反应，每当武器击中目标时，都能生成并准确模拟飞溅的碎片。
 
 《堡垒之夜：大逃杀》第四章中新推出的高保真火焰使用基于体素的传播机制，更好地表现了火焰在表面和地形上的蔓延，同时还支持在载具及物理对象间传播火焰。为了正确放置火焰，并将其对准到燃烧表面，该系统使用了在引擎内部经过烘焙的Niagara流体模拟，并将其应用到了Niagara粒子中（数据读取自火焰游戏系统）。
 
-![游戏画面](https://cdn2.unrealengine.com/unreal-engine-5-1-features-for-fortnite-chapter-4-high-fidelity-fire-1920x1080-27061074e8c8.jpg?resize=1&w=1920)
+![游戏画面](/SOURCE/MEDIA_FOLDER/游戏画面-1.jpg)
 
 ## 对世界构建的支持
 随着第四章的发布，《堡垒之夜：大逃杀》现在在每个平台上都使用了UE5最新的世界构建和自动流送解决方案。其中包括世界分区、数据层、关卡实例、自动HLOD以及一Actor一文件。这套工具集有助于建立更具协作性的工作流程，并提升关卡设计师和美术师构建世界的效率。
@@ -85,7 +85,7 @@ UE5中的曝光系统针对《堡垒之夜：大逃杀》第四章做出了改�
 
 在UE 5.1中，所有开发者都可以使用这些经过改进的功能，并且，随着《堡垒之夜》团队不断对这些功能展开实战测试，我们可以期待在未来版本中看到进一步的改进。
 
-![游戏画面，这张截图将会以宽屏的方式展示|wide](https://cdn2.unrealengine.com/unreal-engine-5-1-features-for-fortnite-chapter-4-world-partition-1920x1080-9d3a0d7ff88c.jpg?resize=1&w=1920)
+![游戏画面，这张截图将会以宽屏的方式展示|wide](/SOURCE/MEDIA_FOLDER/游戏画面，这张截图将会以宽屏的方式展示!wide.jpg)
 
 
 ## 智能对象和状态树
@@ -95,7 +95,7 @@ UE5中的曝光系统针对《堡垒之夜：大逃杀》第四章做出了改�
 
 这两项技术在UE 5.0版本中是作为实验功能发布的，但经过《堡垒之夜：大逃杀》第四章中的成功部署后，它们在5.1版本中已进入生产就绪状态。在第四章之前，智能对象只被用于让AI播放简单的动画或表情。通过在智能对象流程中整合状态树，我们成功地实现了更复杂、更丰富的机器人行为，例如机器人与《堡垒之夜》篝火互动的方式。
 
-![游戏画面](https://cdn2.unrealengine.com/unreal-engine-5-1-features-for-fortnite-chapter-4-smart-objects-1920x1080-844796c16826.jpg?resize=1&w=1920)
+![游戏画面](/SOURCE/MEDIA_FOLDER/游戏画面.jpg)
 
 
 ## 更高的开发者效率

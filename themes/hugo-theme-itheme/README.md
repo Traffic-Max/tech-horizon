@@ -41,7 +41,7 @@ Then you need to add some configuration to `config.toml`, please flow the [Site 
 
 ## Screenshot
 
-![screenshot](https://raw.githubusercontent.com/floyd-li/hugo-theme-itheme/master/images/screenshot.png)
+![screenshot](/SOURCE/MEDIA_FOLDER/screenshot.png)
 
 ## Features
 

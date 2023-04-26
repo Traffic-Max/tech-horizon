@@ -41,7 +41,7 @@ echo "theme = 'hugo-theme-itheme'" >> config.toml
 
 ## 截屏
 
-![screenshot](https://raw.githubusercontent.com/floyd-li/hugo-theme-itheme/master/images/screenshot.png)
+![screenshot](/SOURCE/MEDIA_FOLDER/screenshot.png)
 
 ## 特性
 
